@@ -5,12 +5,6 @@ It provides interactive charts, moving averages, and a clean dark-themed interfa
 
 ---
 
-## Live Demo
-[Click here to see the project in action](https://stock-market-predictor.streamlit.app)  
-*(Replace this with your real Streamlit or HuggingFace Space link if you deploy it)*
-
----
-
 ## Preview
 ![App Preview](screenshots/preview.png)
 
